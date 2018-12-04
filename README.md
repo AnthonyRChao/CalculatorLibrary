@@ -26,3 +26,19 @@ to work.  This reduces their size and gives them a big performance boost.
 to run Linux containers on Windows and macOS.  To create a Docker
 container, you need a Docker image.  Images provide blueprints for 
 containers much like classes provide blueprints for objects.
+
+## Next Steps:
+
+Git Workflows
+Testing
+Packaging
+Continuous Integration
+Continuous Deployment
+Remote vs. Self-Hosted Services
+
+## Questions You Should Be Able To Answer
+
+What is continuous integration?
+Why is continuous integration important?
+What are the core practices of continuous integration?
+How can I set up continuous integration for my Python project?
