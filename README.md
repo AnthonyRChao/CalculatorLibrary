@@ -22,7 +22,7 @@ system, as you would with a virtual machine.
 Containers only replicate parts of the operating system they need in order
 to work.  This reduces their size and gives them a big performance boost.
 
-*Docker* is currently the leading container platform, and it's even able
+**Docker** is currently the leading container platform, and it's even able
 to run Linux containers on Windows and macOS.  To create a Docker
 container, you need a Docker image.  Images provide blueprints for 
 containers much like classes provide blueprints for objects.
